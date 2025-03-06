@@ -1,6 +1,6 @@
 # Mathematical Expression Solver
 
-This project is a Python-based command-line tool for evaluating mathematical and logical expressions from a text file (`input.txt`) and writing the results to an output file (`2021510018_EnesCan_Bilgic.txt`). The program handles various operators and error scenarios gracefully.
+This project is a Python-based command-line tool for evaluating mathematical and logical expressions from a text file (`input.txt`) and writing the results to an output file (`output.txt`). The program handles various operators and error scenarios gracefully.
 
 ## 📋 Features
 - **Arithmetic Operations:** Supports `+`, `-`, `*`, `/`, `%`, `**` (exponentiation), and `//` (integer division).
