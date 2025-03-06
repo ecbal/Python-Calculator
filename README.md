@@ -9,7 +9,7 @@ This project is a Python-based command-line tool for evaluating mathematical and
   - Syntax errors.
   - Division by zero.
   - Malformed expressions.
-- **File I/O:** Reads expressions from `input.txt` and writes results to `2021510018_EnesCan_Bilgic.txt`.
+- **File I/O:** Reads expressions from `input.txt` and writes results to `output.txt`.
 
 ## 🚀 Getting Started
 
