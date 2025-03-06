@@ -168,7 +168,7 @@ if __name__ == '__main__':
     except FileNotFoundError:
         print("File was not Found!")
     if FileFound:
-        file2 = open('2021510018_EnesCan_Bilgic.txt', 'w+')
+        file2 = open('output.txt', 'w+')
         Lines = file1.readlines()
         count = 0
         for line in Lines:
